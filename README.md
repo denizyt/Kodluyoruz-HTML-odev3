@@ -1,4 +1,3 @@
 # Kodluyoruz html proje3!
-![enter image description here](https://picsum.photos/800/400)
-
+![enter image description here](https://github.com/denizyt/Kodluyoruz-HTML-odev3/blob/main/image2.jpg?raw=true)
 
